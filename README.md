@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhacker-gifs&psig=AOvVaw05-kaXqrKgKp4GJK6Qo6M3&ust=1681766433249000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDEj4-qr_4CFQAAAAAdAAAAABAE)](https://sites.google.com/view/bakshishsinghsportfolio/home)
+[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://sites.google.com/view/bakshishsinghsportfolio/home)
 <h1 align="center">Hi 👋, I'm Bakshish Singh</h1>
 <h3 align="center">A passionate IT Support Specialist from Canada</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
