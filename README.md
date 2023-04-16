@@ -1,7 +1,7 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fhacker-gifs&psig=AOvVaw05-kaXqrKgKp4GJK6Qo6M3&ust=1681766433249000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDEj4-qr_4CFQAAAAAdAAAAABAE)](https://sites.google.com/view/bakshishsinghsportfolio/home)
 <h1 align="center">Hi 👋, I'm Bakshish Singh</h1>
 <h3 align="center">A passionate IT Support Specialist from Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw1UIvmrI9gjgfwEUwtrGoWy&ust=1681766773434000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKDUnbGrr_4CFQAAAAAdAAAAABAF">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakshishsingh83&label=Profile%20views&color=0e75b6&style=flat" alt="bakshishsingh83" /> </p>
 
