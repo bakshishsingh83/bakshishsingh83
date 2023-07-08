@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cloud Resume Challenge**
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner**
+- 🌱 I’m currently learning **Comptia A+ (Core1)**
 
 - 📫 How to reach me **bakshishsingh80545@gmail.com**
 
